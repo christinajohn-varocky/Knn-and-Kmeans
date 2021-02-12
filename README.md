@@ -1,1 +1,1 @@
-# Knn-and-Kmeans
+# Comprehending-K-Means-and-KNN-Algorithms
